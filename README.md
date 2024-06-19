@@ -6,4 +6,4 @@ This could be a drawback as retraining or finetuning a LLM is costly, though we 
 
 In the above notebbok I have embedded a text file related to telugu language, you can find the answers from the LLM before and after the RAG.
 
-Future work: Memory buffer can be added to make this as a chat bot and will be adapting this RAG to generate code for langchain as the current LLM's are not equipped and often give gibbersih code related to langchain. This RAG can also be seen as fewhsot learning for the LLM where we provide context to the model.
+Update: Working on a sophisticated RAG for Question and Answer PipeLine
